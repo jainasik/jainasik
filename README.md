@@ -179,11 +179,9 @@ Passionate and self-driven learner **focused on full-stack web development** and
 ---
 
 ##  Currently Learning  
-- Advanced React patterns and state management
-- Backend integration with Firebase & MongoDB
-- Advanced Data Structures & Algorithms
-- Problem Solving techniques and optimization
-- Full-Stack Development best practices
+
+_ Data Structures and Algorithms for problem solving
+_ Improving coding skills in C++, html, and Java
 
 ---
 
